@@ -1,0 +1,107 @@
+{
+  "cafe_name": "Café Residenz am Weißen See",
+  "currency": "EUR",
+  "menu_categories": [
+    {
+      "category": "Frühstück (Breakfast)",
+      "description": "Served Monday-Saturday 06:00-20:00, Sunday 08:00-20:00",
+      "items": [
+        {
+          "name": "Berliner Frühstück",
+          "price": "2.40",
+          "description": "Traditional Berlin breakfast"
+        },
+        {
+          "name": "Französisches Frühstück",
+          "price": "3.10",
+          "description": "French-style breakfast"
+        },
+        {
+          "name": "Italienisches Frühstück",
+          "price": "3.70",
+          "description": "Italian breakfast"
+        },
+        {
+          "name": "Bauernfrühstück",
+          "price": "3.90",
+          "description": "Farmer's breakfast"
+        },
+        {
+          "name": "Norwegisches Frühstück",
+          "price": "4.60",
+          "description": "Norwegian breakfast"
+        },
+        {
+          "name": "Weißenseer Frühstücksplatte (für 2)",
+          "price": "4.20",
+          "description": "Weißensee breakfast platter for two"
+        }
+      ]
+    },
+    {
+      "category": "Kaffee & Getränke (Coffee & Beverages)",
+      "description": "Premium coffee and beverages",
+      "items": [
+        {
+          "name": "Kaffee",
+          "description": "Good quality coffee - worth trying!"
+        },
+        {
+          "name": "Espresso",
+          "description": "Classic Italian espresso"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "Creamy cappuccino"
+        },
+        {
+          "name": "Latte Macchiato",
+          "description": "Layered coffee drink"
+        },
+        {
+          "name": "Tee (Various)",
+          "description": "Large selection of tea varieties"
+        }
+      ]
+    },
+    {
+      "category": "Kuchen & Desserts (Cakes & Desserts)",
+      "description": "Famous for incredibly delicious cakes in huge portions!",
+      "items": [
+        {
+          "name": "Hausgemachte Torten",
+          "description": "Homemade cakes - super delicious and huge pieces!"
+        },
+        {
+          "name": "Kuchen des Tages",
+          "description": "Daily cake selection"
+        }
+      ]
+    },
+    {
+      "category": "Mittagessen (Lunch)",
+      "description": "Excellent lunch menu with delivery service",
+      "items": [
+        {
+          "name": "Tagessuppe",
+          "description": "Soup of the day"
+        },
+        {
+          "name": "Salate",
+          "description": "Fresh salads"
+        },
+        {
+          "name": "Warme Gerichte",
+          "description": "Warm dishes - excellent lunch menu"
+        }
+      ]
+    }
+  ],
+  "special_services": [
+    "Delivery service for residents",
+    "Large selection of tea varieties",
+    "Cozy terrace in the courtyard",
+    "Wheelchair accessible",
+    "Takeaway available"
+  ]
+}

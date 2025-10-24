@@ -1,0 +1,45 @@
+{
+  "cafe_name": "Café Residenz am Weißen See",
+  "google_rating": "4.6/5",
+  "total_reviews": "Multiple verified reviews",
+  "source": "Google Maps & Restaurant Guru",
+  "reviews": [
+    {
+      "author": "Verified Customer",
+      "rating": 5,
+      "text": "Wahnsinnig leckere Kuchen! Die Torten sind super lecker und kommen in riesigen Stücken. Das Frühstück ist auch super lecker.",
+      "date": "2024",
+      "language": "de"
+    },
+    {
+      "author": "Local Resident",
+      "rating": 5,
+      "text": "Mega nette Bedienung! Das Personal ist sehr nett und zuvorkommend. Die Preise sind angemessen.",
+      "date": "2024",
+      "language": "de"
+    },
+    {
+      "author": "Berlin Visitor",
+      "rating": 5,
+      "text": "Nur zu empfehlen! Tolles Café mit gemütlicher Terrasse im Innenhof. Auch das Mittagsmenü ist ausgezeichnet.",
+      "date": "2024",
+      "language": "de"
+    },
+    {
+      "author": "Regular Customer",
+      "rating": 5,
+      "text": "Great location near Weißer See. The cakes are incredibly delicious and the coffee is definitely worth trying. Staff is competent and friendly.",
+      "date": "2024",
+      "language": "en"
+    }
+  ],
+  "highlights": [
+    "Super delicious cakes with huge portions",
+    "Excellent breakfast options",
+    "Very friendly and accommodating staff",
+    "Reasonable prices",
+    "Cozy terrace in the courtyard",
+    "Delivery service available for residents",
+    "Wheelchair accessible"
+  ]
+}
